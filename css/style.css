@@ -83,8 +83,12 @@ td:last-child {
     text-align: center;
 }
 
-.categoryBoard tr td:nth-child(4) {
-    text-align: right;
+.categoryBoard tr td:nth-child(3) {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
 }
 
 .categoryBoard tr:nth-child(even) {
